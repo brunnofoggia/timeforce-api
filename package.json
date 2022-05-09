@@ -1,0 +1,10 @@
+{
+    "name": "timeforce-api",
+    "description": "Integração ágil com API",
+    "url": "http://api.99xp.org",
+    "author": "Bruno Foggia",
+    "version": "0.0.1",
+    "main": "dist/api.min.js",
+    "type": "module",
+    "license": "MIT"
+}
